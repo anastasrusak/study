@@ -1,0 +1,29 @@
+{
+  "name": "demoqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --timeout 30000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1qa-education-L2/a2.rusak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a1qa-education-L2/a2.rusak/issues"
+  },
+  "homepage": "https://github.com/a1qa-education-L2/a2.rusak#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chromedriver": "^107.0.0",
+    "geckodriver": "^3.0.2",
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.5.0"
+  }
+}

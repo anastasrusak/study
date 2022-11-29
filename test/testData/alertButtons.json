@@ -1,0 +1,5 @@
+{
+    "alertButton": "Click Button to see alert ",
+    "confirmButton": "On button click, confirm box will appear",
+    "promptButton": "On button click, prompt box will appear"
+}
