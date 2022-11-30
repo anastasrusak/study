@@ -1,0 +1,13 @@
+{
+    "windows": "Browser Windows",
+    "alerts": "Alerts",
+    "iframes": "Frames",
+    "nestedIframes": "Nested Frames",
+    "dialogs": "Modal Dialogs",
+    "elementsSection": "Elements",
+    "elements": {
+        "webTables": "Web Tables",
+        "links": "Links"
+    }
+
+}
